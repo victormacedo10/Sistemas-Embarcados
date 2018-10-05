@@ -14,7 +14,6 @@ int main(int argc, const char *argv[]){
 		write(fp, argv[i], strlen(argv[i])*sizeof(char));
 		write(fp, &c, sizeof(char));
 	}
-	printf("\n");
 	close(fp);
 	return 0;
 
