@@ -1,0 +1,2 @@
+Digite o seu nome: (null) 
+Digite a sua idade: XDG_VTNR=7 
